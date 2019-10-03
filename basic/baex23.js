@@ -1,5 +1,5 @@
 
-ageCalc(1999);
+ageCalc(1990);
 
 function ageCalc(birt_year){
 	
