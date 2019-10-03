@@ -1,0 +1,4 @@
+var myYesterday = (function(){
+
+
+}());
